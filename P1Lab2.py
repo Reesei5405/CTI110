@@ -28,7 +28,7 @@ meal_total = burger_total + fry_total
 
 # print the receipt
 print("-" * 25)
-print(num_burgers, "burgers\t$", burger_total)
-print(num_fries, "fry\t\t$", fry_total)
+print(num_burgers,"🍔 burgers\t$",format( burger_total, ".2f") )
+print(num_fries,"🍟 fry\t\t$",format( fry_total, ".2f") )
 print("-" * 25)
 print("Total\t\t$",meal_total)
