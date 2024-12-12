@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;
+<a href="content.html">Content</a>&nbsp;&nbsp;&nbsp;
+<a href="from.html">Form</a>&nbsp;&nbsp;&nbsp;
+<a href="Google.html"Google</a>&nbsp;&nbsp;&nbsp;
+
+
+<form action="/action_page.php">
+<label for="fname">First name:</label><br>
+<label for="lname">Last name:</label><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
